@@ -1,6 +1,6 @@
 # 30 Days Of Javascript
 
-## JS Challenges 
+## JS Challenge
 
 * [Reverse A Number](https://github.com/vipuljain08/30DaysOfJavascript/blob/master/challenges/Challenge1.js)
 
