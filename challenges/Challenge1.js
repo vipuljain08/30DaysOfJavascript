@@ -1,4 +1,5 @@
 // Solution 1
+// Reverse A Number
 const reverseNumber = (num) => {
   return parseInt(num.toString().split("").reverse().join(""));
 };
